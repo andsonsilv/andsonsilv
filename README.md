@@ -4,7 +4,7 @@
 ## Quase Cientista da Computação, apaixonado por tecnologia e amante da vida!
 - 🔭 Trabalhando com tecnologia desde 2021.
 - 🌱 Constância é uma palavra que gosto bastante.
-- ⚡ Curiosidades: futebol, negócios, família e amigos sempre estarão contidos em minha vida.
+- ⚡ Curiosidades: futebol, negócios, família e amigos estão contidos em minha vida.
 
 ---
 
