@@ -27,7 +27,7 @@
 <img width="30px" src="https://img.icons8.com/ios-filled/50/26e07f/qt.png"/>
 </br>
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-[![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)]
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
 ⭐️ [Antônio Andson](https://github.com/andsonsilv)
