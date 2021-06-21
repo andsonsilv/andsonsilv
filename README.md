@@ -2,7 +2,7 @@
 
 
 ## Quase Cientista da Computação, apaixonado por tecnologia e amante da vida!
-- 🔭 Trabalhando com tecnologia há anos. Desenvolvedor multiplataforma em C++ com Qt.
+- 🔭 Desenvolvedor multiplataforma em C++ com Qt.
 - 🌱 Constância é uma palavra que gosto bastante.
 - ⚡ Curiosidades: futebol, negócios, família e amigos estão contidos em minha vida.
 
