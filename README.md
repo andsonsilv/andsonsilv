@@ -16,6 +16,3 @@
 </br>
 
 ---
-
-### 👨‍💻 Ambiente, Linguagens e Ferramentas:
-Carregando...
